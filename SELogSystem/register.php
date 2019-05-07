@@ -8,7 +8,8 @@
 	<div class="content" align="center">
 
 		<div class="header">
-		<h1>Sign Up Page</h1>
+		<h1>Hello! Dear New Customer</h1>
+		<p>Please sign up follow the steps</p>
 		</div>
 	<div class="middle">
 		<form action="registerProcess.php" method="post">

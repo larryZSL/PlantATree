@@ -7,7 +7,8 @@
 <body>
     <div class="content" align="center">
         <div class="header">
-        <h1>Login Page</h1>
+        <h1>Welcome to PlantATree</h1>
+	<p>Please Login</p>
         </div>
         <!--??-->
         <div class="middle">
