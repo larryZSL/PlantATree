@@ -53,8 +53,13 @@ session_start();
         ?> 	
 
                 
-<br>
-	   
+<br><br>
+	<form action="searchProcess.php" method="post" >
+	<p>Search Tree</p>
+	   <input type="text" name="search" required="required" value="apple tree"> <br>
+	   <input type="submit" name="searchButton" value="Search">
+	</form>   
+	<br><br>
 		<a href="viewCart.php">View Cart</a>
 
 	     <div class="pic">

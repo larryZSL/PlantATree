@@ -2,8 +2,8 @@
 <?php
 
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "tfs5503";
+$password = "qq40458689";
 $dbname = "se";
 
 // Create connection
